@@ -2,7 +2,7 @@
 
 A simple Python calculator with basic math operations.
 
-## Instalation
+## Installation
 
 No installation required. Just run with Python 3.
 
@@ -12,13 +12,13 @@ No installation required. Just run with Python 3.
 python calculator.py
 ```
 
-## Fetures
+## Features
 
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-## Lisence
+## License
 
 MIT
